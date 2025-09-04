@@ -5,7 +5,25 @@ This project demonstrates how to **query, analyze, and generate insights** from 
 
 ---
 
-## 📌 Project Overview  
+## 📑 Table of Contents
+
+- <a href="#project-overview">📌 Project Overview</a>  
+- <a href="#dataset-used">📂 Dataset Used</a>  
+- <a href="#project-objectives">🎯 Project Objectives</a>  
+- <a href="#business-problems">⭕ Business Problems Addressed</a>  
+- <a href="#methodology">🛠️ Methodology</a>  
+- <a href="#insights">🔍 Key Insights & Solutions</a>  
+- <a href="#queries">📈 Sample SQL Queries Used</a>  
+- <a href="#skills">🧠 Skills Gained</a>  
+- <a href="#importance">🔑 Why This Project Matters</a>  
+- <a href="#conclusion">✅ Conclusion</a>  
+- <a href="#contact">📬 Connect with Me</a>  
+- <a href="#project-visual">📸 Project Snapshot</a>  
+
+---
+
+## <span id="project-overview">📌 Project Overview</span>
+
 
 This project focuses on analyzing a fictional dataset of **Netflix content records**.  
 The goal was to answer **real-world entertainment business questions** such as:  
@@ -20,7 +38,7 @@ By running SQL queries, I extracted valuable **content distribution insights** w
 
 ---
 
-## 📂 Dataset Used  
+## <span id="dataset-used">📂 Dataset Used</span> 
 
 The dataset was stored in a single table `netflix` created in **PostgreSQL**.  
 The schema included the following fields:  
@@ -42,7 +60,7 @@ The schema included the following fields:
 
 ---
 
-## 🎯 Project Objectives  
+## <span id="project-objectives">🎯 Project Objectives</span> 
 
 The main objectives of this Netflix data analysis project were to:  
 
@@ -55,7 +73,7 @@ The main objectives of this Netflix data analysis project were to:
 
 ---
 
-## ⭕ Business Problems Addressed  
+## <span id="business-problems">⭕ Business Problems Addressed</span>
 
 The entertainment analytics team wanted answers to these questions:  
 
@@ -75,7 +93,7 @@ The entertainment analytics team wanted answers to these questions:
 
 ---
 
-## 🛠️ Methodology  
+## <span id="methodology">🛠️ Methodology</span>  
 
 A structured SQL workflow was followed:  
 
@@ -96,7 +114,7 @@ A structured SQL workflow was followed:
 
 ---
 
-## 🔍 Key Insights & Solutions  
+## <span id="insights">🔍 Key Insights & Solutions</span>  
 
 ✅ **Movies vs TV Shows Count:**  
 `SELECT type, COUNT(*) FROM netflix GROUP BY type;`  
@@ -128,7 +146,7 @@ Used `unnest(string_to_array(country, ','))`
 
 ---
 
-## 📈 Sample SQL Queries Used  
+## <span id="queries">📈 Sample SQL Queries Used</span>  
 
 ### 🟢 Basic Queries  
 - Count Movies vs TV Shows  
@@ -147,7 +165,7 @@ Used `unnest(string_to_array(country, ','))`
 
 ---
 
-## 🧠 Skills Gained  
+## <span id="skills">🧠 Skills Gained</span>
 
 From this project, I developed skills in:  
 
@@ -159,7 +177,7 @@ From this project, I developed skills in:
 
 ---
 
-## 🔑 Why This Project Matters  
+## <span id="importance">🔑 Why This Project Matters</span>  
 
 ✅ Simulates **real-world streaming analytics**  
 📁 Perfect for GitHub/LinkedIn portfolio  
@@ -169,7 +187,7 @@ From this project, I developed skills in:
 
 ---
 
-## ✅ Conclusion  
+## <span id="conclusion">✅ Conclusion</span>  
 
 This SQL project provided deep insights into Netflix’s content library.  
 By analyzing a single dataset with PostgreSQL, I explored patterns in **movies vs TV shows, ratings, genres, countries, and actors**.  
@@ -178,7 +196,7 @@ It showcased how **structured SQL queries** can convert raw entertainment data i
 
 ---
 
-## 📬 Connect with Me  
+## <span id="contact">📬 Connect with Me</span>  
 
 - 📧 **Email**: [rajeevtiwari8055@gmail.com](mailto:rajeevtiwari8055@gmail.com)  
 - 💻 **GitHub**: [github.com/rajeevgit8055hub](https://github.com/rajeevgit8055hub)  
@@ -189,7 +207,7 @@ It showcased how **structured SQL queries** can convert raw entertainment data i
 
 ---
 
-## 📸 Project Overview
+## <span id="project-visual">📸 Project Snapshot</span>
 
 🎬 **NETFLIX Data SQL Analysis**  
 (*Visual: Netflix dataset, SQL queries, charts on country/genre/rating trends*)  
