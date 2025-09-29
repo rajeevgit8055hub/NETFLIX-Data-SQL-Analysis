@@ -212,7 +212,8 @@ It showcased how **structured SQL queries** can convert raw entertainment data i
 🎬 **NETFLIX Data SQL Analysis**  
 (*Visual: Netflix dataset, SQL queries, charts on country/genre/rating trends*)  
 
-![NETFLIX Data SQL Analysis](Netflix%20Data.jpg)  
+![NETFLIX Data SQL Analysis](Netflix%20Data.jpg)
+![NETFLIX Data SQL Analysis](Netflix%20Data2.jpg)    
 
 ---
 
