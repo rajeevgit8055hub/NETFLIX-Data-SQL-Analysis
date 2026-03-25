@@ -1,5 +1,9 @@
 # 🎬 NETFLIX-Data-SQL-Analysis
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" alt="Netflix Logo" height="120">
+</p>
+
 A complete SQL-based data analysis project on **Netflix content dataset** using **PostgreSQL**.  
 This project demonstrates how to **query, analyze, and generate insights** from Netflix’s catalog to uncover trends related to **movies, TV shows, ratings, genres, countries, and actors** using 15 structured SQL queries.  
 
